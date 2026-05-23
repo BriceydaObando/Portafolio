@@ -1,2 +1,2 @@
 # Portafolio
-Mi portafolio de programación con GitHub, HTML, CSS, JavaScript y más.
+“Portafolio de desarrollo web con proyectos en HTML, CSS, JavaScript y uso de GitHub.”
